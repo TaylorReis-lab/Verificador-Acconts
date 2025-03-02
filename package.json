@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "puppeteer": "^21.11.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-capsolver": "^1.1.2",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-recaptcha-capmonster": "^1.0.5"
+  },
+  "name": "teste-burlar-recaptcha",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
